@@ -1,0 +1,32 @@
+{
+  "name": "vue-message-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev01": "parcel ./01/index.html",
+    "dev02": "parcel ./02/index.html",
+    "dev03": "parcel ./03/index.html",
+    "dev04": "parcel ./04/index.html",
+    "dev05": "parcel ./05/index.html",
+    "dev06": "parcel ./06/index.html",
+    "dev07": "parcel ./07/index.html",
+    "dev08": "parcel ./08/index.html",
+    "dev09": "parcel ./09/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "element-ui": "^2.13.0",
+    "parcel-bundler": "^1.12.4",
+    "vue": "^2.0.0",
+    "vue-hot-reload-api": "^2.3.4",
+    "vuex": "^3.1.3"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.1.1",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
